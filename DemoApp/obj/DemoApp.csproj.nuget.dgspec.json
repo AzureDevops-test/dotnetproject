@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\venky\\source\\repos\\bala383\\dotnetproject\\DemoApp\\DemoApp.csproj": {}
+    "C:\\Users\\venky\\Source\\Repos\\bala383\\dotnetproject\\DemoApp\\DemoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\venky\\source\\repos\\bala383\\dotnetproject\\DemoApp\\DemoApp.csproj": {
+    "C:\\Users\\venky\\Source\\Repos\\bala383\\dotnetproject\\DemoApp\\DemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\venky\\source\\repos\\bala383\\dotnetproject\\DemoApp\\DemoApp.csproj",
+        "projectUniqueName": "C:\\Users\\venky\\Source\\Repos\\bala383\\dotnetproject\\DemoApp\\DemoApp.csproj",
         "projectName": "DemoApp",
-        "projectPath": "C:\\Users\\venky\\source\\repos\\bala383\\dotnetproject\\DemoApp\\DemoApp.csproj",
+        "projectPath": "C:\\Users\\venky\\Source\\Repos\\bala383\\dotnetproject\\DemoApp\\DemoApp.csproj",
         "packagesPath": "C:\\Users\\venky\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\venky\\source\\repos\\bala383\\dotnetproject\\DemoApp\\obj\\",
         "projectStyle": "PackageReference",
