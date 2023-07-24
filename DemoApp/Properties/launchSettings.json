@@ -9,7 +9,7 @@
   },
   "profiles": {
     "DemoApp": {
-      "commandName": "Project",
+      "commandName": "nbs-digital",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "applicationUrl": "https://localhost:7155;http://localhost:5155",
