@@ -1,4 +1,4 @@
-﻿{
+{
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
@@ -9,7 +9,7 @@
   },
   "profiles": {
     "DemoApp": {
-      "commandName": "nbs-digital",
+      "commandName": "nationwide-building-society",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "applicationUrl": "https://localhost:7155;http://localhost:5155",
